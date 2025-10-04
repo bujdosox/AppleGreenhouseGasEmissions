@@ -19,17 +19,21 @@ The CSV files contain data between 2015 and 2022 for each years about the follow
 -	 (4) Considering fact emission CAGR between 2015 and 2022 (-8.50%) and required emission CAGR between 2023 and 2030 (-9.11%) with some actions Apple can reach their target emission. Along with this they need provide 1.20M tCO2 removal between 2023 and 2030, which can be very challenging and required a strict and consistent strategy from the company.
 
 ![Image](https://github.com/user-attachments/assets/1d3268fa-6269-40c6-9720-d58e5c2d5252)
+
 ### Methods and steps
 #### Loading, transforming, cleaning and exporting data with Python
 Important step during data preparation is outlier detection. As the data in our case doesn’t follow normal distribution IQR (interquartile range) method was used, which is a robust measure because it is not affected too much by extreme outlier values. Finally outliers were also considered as valuable data, as in case of GHG emissions they are not mistakes or wrong detected values.
+
 ![Image](https://github.com/user-attachments/assets/05543c77-50c6-435d-9b6f-ba163595cad9)
 ![Image](https://github.com/user-attachments/assets/d20e9bfa-d1ca-4cf7-a57c-c2c78e6b0391)
 ![Image](https://github.com/user-attachments/assets/44af4532-6cea-4ef2-b6ff-0263c8a08e4d)
 ![Image](https://github.com/user-attachments/assets/be745bea-6613-4c56-841e-d21a1e939bc0)
 ![Image](https://github.com/user-attachments/assets/dc8d1420-a2b2-495c-8305-9d95184ec82b)
 ![Image](https://github.com/user-attachments/assets/b4acbc5f-cc10-428c-8d7b-0b6ad3ff6a16)
+
 #### Importing, analyzing and visualizing data in PowerBI
 Analyzing data with using DAX measures in order to use them anywhere in the report, referenced by other DAX measures and provide more complex calculations. Some of the most important measures:
+
 ![Image](https://github.com/user-attachments/assets/a6ebfded-ca3f-487f-978a-47f22f6c7937)
 ![Image](https://github.com/user-attachments/assets/221c1b99-5b08-4ff2-a49c-a634e4bfc82b)
 ![Image](https://github.com/user-attachments/assets/def9e747-70aa-4825-bcd8-462f107bc6c7)
