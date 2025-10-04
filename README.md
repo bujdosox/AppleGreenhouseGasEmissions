@@ -12,11 +12,12 @@ The CSV files contain data between 2015 and 2022 for each years about the follow
 -	gross carbon emissions and carbon removals/offset (tCO2e)
 -	categories (corporate emission, product life cycle emission) and detailed areas
 -	revenue, market capitalization and number of employees
-### Outcome
+### Outcome [Apple's greenhouse gas emissions dashboard.pdf](https://github.com/user-attachments/files/22703956/Apple.s.greenhouse.gas.emissions.dashboard.pdf)
 -	 (1) Apple decreased emission (without offset) between 2015 and 2022 from 38.38M tCO2e to 20.60M tCO2e. It means -46.32% decrease at all and -8.50% CAGR (Compound Annual Growth Rate).
 -	 (2) While emission decreased (-8,50% CAGR) between 2015 and 2022, revenue (+7.76% CAGR) and market cap (+23.14% CAGR) increased in the same period (decoupling).
 -	 (3) While manufacturing, product use, business travel, employee commute and and-of-life processing had the highest impact to the decrease and performed best, product transportation increased seriously (+46.15%).
 -	 (4) Considering fact emission CAGR between 2015 and 2022 (-8.50%) and required emission CAGR between 2023 and 2030 (-9.11%) with some actions Apple can reach their target emission. Along with this they need provide 1.20M tCO2 removal between 2023 and 2030, which can be very challenging and required a strict and consistent strategy from the company.
+
 ![Image](https://github.com/user-attachments/assets/1d3268fa-6269-40c6-9720-d58e5c2d5252)
 ### Methods and steps
 #### Loading, transforming, cleaning and exporting data with Python
