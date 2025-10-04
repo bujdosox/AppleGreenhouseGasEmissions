@@ -17,7 +17,7 @@ The CSV files contain data between 2015 and 2022 for each years about the follow
 -	 (2) While emission decreased (-8,50% CAGR) between 2015 and 2022, revenue (+7.76% CAGR) and market cap (+23.14% CAGR) increased in the same period (decoupling).
 -	 (3) While manufacturing, product use, business travel, employee commute and and-of-life processing had the highest impact to the decrease and performed best, product transportation increased seriously (+46.15%).
 -	 (4) Considering fact emission CAGR between 2015 and 2022 (-8.50%) and required emission CAGR between 2023 and 2030 (-9.11%) with some actions Apple can reach their target emission. Along with this they need provide 1.20M tCO2 removal between 2023 and 2030, which can be very challenging and required a strict and consistent strategy from the company.
-![Image](https://github.com/user-attachments/assets/7fd89ca2-4101-4244-8fec-c04633735fa8)
+[Apple_project.pdf](https://github.com/user-attachments/files/22703903/Apple_project.pdf)
 ### Methods and steps
 #### Loading, transforming, cleaning and exporting data with Python
 Important step during data preparation is outlier detection. As the data in our case doesn’t follow normal distribution IQR (interquartile range) method was used, which is a robust measure because it is not affected too much by extreme outlier values. Finally outliers were also considered as valuable data, as in case of GHG emissions they are not mistakes or wrong detected values.
