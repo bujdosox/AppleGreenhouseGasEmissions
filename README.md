@@ -18,7 +18,7 @@ The CSV files contain data between 2015 and 2022 for each years about the follow
 -	 (3) While manufacturing, product use, business travel, employee commute and and-of-life processing had the highest impact to the decrease and performed best, product transportation increased seriously (+46.15%).
 -	 (4) Considering fact emission CAGR between 2015 and 2022 (-8.50%) and required emission CAGR between 2023 and 2030 (-9.11%) with some actions Apple can reach their target emission. Along with this they need provide 1.20M tCO2 removal between 2023 and 2030, which can be very challenging and required a strict and consistent strategy from the company.
 
-![Image](https://github.com/user-attachments/assets/1d3268fa-6269-40c6-9720-d58e5c2d5252)
+![Image](https://github.com/user-attachments/assets/f801798d-90f6-4c92-b88b-6eafe595fb91)
 
 ### Methods and steps
 #### Loading, transforming, cleaning and exporting data with Python
